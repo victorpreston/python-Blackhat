@@ -12,4 +12,7 @@ Author
 
 Usage
 ------
-
+```
+    cd python-Blackhat
+    python3 <filename.py>
+```
